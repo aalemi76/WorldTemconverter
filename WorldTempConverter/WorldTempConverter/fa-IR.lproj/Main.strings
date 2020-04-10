@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Input intended Temperature here:"; ObjectID = "0fi-T8-mHO"; */
+"0fi-T8-mHO.text" = "دمای مورد نظر را بر حسب درجه ی فارنهایت وارد کنید";
+
+/* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "6m9-bp-Che"; */
+"6m9-bp-Che.text" = "درجه ی فارنهایت";
+
+/* Class = "UITextField"; placeholder = "Temperature in Fahrenheit:"; ObjectID = "COW-ui-vHb"; */
+"COW-ui-vHb.placeholder" = "دما بر حسب فارنهایت";
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "Uh8-9J-OEI"; */
+"Uh8-9J-OEI.text" = "برابر است با";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "bk4-TB-agp"; */
+"bk4-TB-agp.title" = "نقشه";
+
+/* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "hUm-zJ-o30"; */
+"hUm-zJ-o30.text" = "درجه ی سلسیوس";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "tKW-Yk-ecI"; */
+"tKW-Yk-ecI.text" = "۱۰۰";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "tdJ-5u-4r4"; */
+"tdJ-5u-4r4.title" = "تبدیل";
